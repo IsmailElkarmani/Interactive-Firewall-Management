@@ -1,0 +1,40 @@
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled and temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore log files
+*.log
+*.out
+
+# Ignore backup and firewall rule files
+backup.rules
+*.rules
+
+# Ignore user-specific configuration files
+*.conf
+*.cfg
+
+# Ignore shell history and sensitive files
+.bash_history
+.zsh_history
+.env
+secrets.env
+
+# Ignore temporary execution files
+*.pid
+*.sock
+
+# Ignore editor-specific files
+*.vscode/
+*.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Git-related files
+.git/
