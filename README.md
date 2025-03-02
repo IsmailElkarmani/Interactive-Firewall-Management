@@ -15,31 +15,31 @@ Interactive Firewall Management is a Bash-based CLI tool that simplifies the con
 - Color-coded UI – Clear visual feedback in the terminal.
 
 ## Project Structure
-
-Interactive-Firewall-Management/
-│── firewall_config.sh         # Main firewall management script (CLI)
-│── firewall_config_example.sh # Example configuration script
-│── backup.rules               # Backup file for firewall rules
-│── LICENSE                    # License file (MIT)
-│── .gitignore                 # Prevents unnecessary files in Git
-│── README.md                  # Project documentation
-│── logo.txt                   # ASCII banner (optional)
-
+``
+Interactive-Firewall-Management/                                                                                     
+│── firewall_config.sh         # Main firewall management script (CLI)                                                
+│── firewall_config_example.sh # Example configuration script                                                         
+│── backup.rules               # Backup file for firewall rules                                                       
+│── LICENSE                    # License file (MIT)                                                                   
+│── .gitignore                 # Prevents unnecessary files in Git                                                    
+│── README.md                  # Project documentation                                                                
+│── logo.txt                   # ASCII banner (optional)                                                              
+``
 ## Installation
 
-1️1- Clone the Repository
-
+1- Clone the Repository
+```
 git clone https://github.com/IsmailElkarmani/Interactive-Firewall-Management.git
 cd Interactive-Firewall-Management
-
-2️2- Make the Script Executable
-
+```
+2- Make the Script Executable
+```
 chmod +x firewall_config.sh
-
+```
 3️3- Run the Firewall Management Tool
-
+```
 ./firewall_config.sh
-
+```
 ## Usage
 
 Once the script is executed, you will see an interactive menu:
