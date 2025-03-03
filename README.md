@@ -1,3 +1,9 @@
+<center>
+<h2><img src="https://img.shields.io/badge/Author-IsmailElkarmani-blueviolet"/>
+  <img src="https://img.shields.io/badge/Tool-FIEPAW_FIEFALL-red"/>
+  <img src="https://img.shields.io/badge/Made%20with-%20bash-yellowgreen"/>
+  </h2>
+	
 # Interactive-Firewall-Management
 
 Secure Your System with UFW & IPTables
@@ -7,12 +13,6 @@ Secure Your System with UFW & IPTables
 Interactive Firewall Management is a Bash-based CLI tool that simplifies the configuration and management of firewall rules using UFW (Uncomplicated Firewall) and IPTables. This script allows users to efficiently add, remove, display, and save firewall rules to enhance system security.  
 
 <img src="FIEPAW_FIEFALL.png" float="center">
-<center>
-<h2><img src="https://img.shields.io/badge/Author-IsmailElkarmani-blueviolet"/>
-  <img src="https://img.shields.io/badge/Tool-FIEPAW_FIEFALL-red"/>
-  <img src="https://img.shields.io/badge/Made%20with-%20bash-yellowgreen"/>
-  </h2>
-  <hr>
   
 ## Features
 
