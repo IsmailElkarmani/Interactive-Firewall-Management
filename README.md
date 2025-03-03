@@ -4,8 +4,16 @@ Secure Your System with UFW & IPTables
 
 ## Overview
 
-Interactive Firewall Management is a Bash-based CLI tool that simplifies the configuration and management of firewall rules using UFW (Uncomplicated Firewall) and IPTables. This script allows users to efficiently add, remove, display, and save firewall rules to enhance system security.
+Interactive Firewall Management is a Bash-based CLI tool that simplifies the configuration and management of firewall rules using UFW (Uncomplicated Firewall) and IPTables. This script allows users to efficiently add, remove, display, and save firewall rules to enhance system security.  
 
+<img src="FIEPAW_FIEFALL.png" float="center">
+<center>
+<h2><img src="https://img.shields.io/badge/Author-IsmailElkarmani-blueviolet"/>
+  <img src="https://img.shields.io/badge/Tool-FIEPAW_FIEFALL-red"/>
+  <img src="https://img.shields.io/badge/Made%20with-%20bash-yellowgreen"/>
+  </h2>
+  <hr>
+  
 ## Features
 
 - Interactive CLI – Manage firewall rules via a user-friendly menu.
@@ -55,19 +63,19 @@ Once the script is executed, you will see an interactive menu:
 
 - Example: Add a Rule   
 
-	•	Select option `[2]` Add a rule
+	• Select option `[2]` Add a rule
 
-	•	Choose from predefined rules: SSH, HTTP, HTTPS, or block an IP.
+	• Choose from predefined rules: SSH, HTTP, HTTPS, or block an IP.
 
-	•	The rule is instantly applied and saved.
+	• The rule is instantly applied and saved.
 
 - Example: Save Firewall Configuration
 
-	•	Select option `[4]` Save configuration
+	• Select option `[4]` Save configuration
 
-	•	Enter a filename (ex: backup.rules)
+	• Enter a filename (ex: backup.rules)
 
-	•	The current rules are saved for future restoration.
+	• The current rules are saved for future restoration.
 
 ## Security Best Practices
 
@@ -81,7 +89,7 @@ Once the script is executed, you will see an interactive menu:
 
 ## License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the MIT License – see the [MIT license](LICENSE) file for details.
 
 ## Contributing
 
@@ -91,4 +99,5 @@ Contributions are welcome! If you have suggestions, feel free to:
   - Submit a pull request
 
 ## Contact
+[GitHub](https://github.com/IsmailElkarmani)
 
