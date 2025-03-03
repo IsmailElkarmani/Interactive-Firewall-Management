@@ -101,3 +101,4 @@ Contributions are welcome! If you have suggestions, feel free to:
 ## Contact
 [GitHub](https://github.com/IsmailElkarmani)
 
+## ⭐ If you find this project helpful, don’t forget to give it a star! ⭐
